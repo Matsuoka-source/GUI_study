@@ -8,3 +8,5 @@ public class test {
     frame.setVisible(true);
   }
 }
+
+// GUIの表示するための記述
