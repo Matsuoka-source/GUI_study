@@ -1,3 +1,3 @@
-# GUI_study
+  # GUI_study
 
 ### GUIについて学習するために使用
