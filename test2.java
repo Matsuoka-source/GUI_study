@@ -20,3 +20,4 @@ class test2 {
     frame.setVisible(true);
   }
 }
+// ボタンが３つ作成される
